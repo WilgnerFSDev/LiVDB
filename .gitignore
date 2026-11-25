@@ -1,0 +1,33 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# LiVDB runtime & output directories
+/cache/
+/raw_data/
+/raw_code/
+/datasets/
+/preproc_datasets/
+/workspace/
+/joern_output/
+/tools/
+/reports/
+models/
+plugins/*/workspace/
+
+# Generated binaries, graphs & model artifacts
+*.bin
+*.jsonl
+*.npz
+*.pt
+*.pkl
+*.model
+training/*.png

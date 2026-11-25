@@ -1,0 +1,22 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+LiVDB © 2026 by Wilgner Fábio da Silva is licensed under CC BY-NC-SA 4.0.
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Full legal code:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Summary of Terms:
+- Attribution (BY): You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made.
+- NonCommercial (NC): You may not use the material for commercial purposes.
+- ShareAlike (SA): If you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license as the original.
+
+Third-Party Notice:
+- Portions of the `training/` directory are adapted from ReVeal (Copyright (c) 2021
+  Saikat Chakraborty) and remain governed by their original MIT License in
+  `training/LICENSE`.
+- Sample C/H source files under `tests/fixtures/raw_data/` are historical excerpts
+  from the Linux kernel and remain governed by GPL-2.0; JSON metadata records under
+  `tests/fixtures/cache/` originate from the NIST NVD API (public domain).
